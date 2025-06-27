@@ -36,6 +36,10 @@ Two options available, [this](https://www.circuitspecialists.com/rackmount-enclo
 4x Noctua 40x20mm Fans - $60
 It seems best to hook up these 5V fans to the GPIO 3.3V rail and they run a little quieter. Though some testing is
 necessary to hear how loud they are running full tilt on the 5V rail.
+Miscellaneous Heat Sinks - $30
+USB Panel Mout - $15
+The USBC Panel mount only needs to be used for power so there is no data bandwidth needs to this port. A good candidate
+seems to be something like [this](https://www.amazon.com/PENGLIN-Coupler-Connector-Bulkhead-Extension/dp/B0B4VWZD7X/ref=sr_1_4?crid=2OXCWVIQEPDY3&dib=eyJ2IjoiMSJ9.AWs3zoEFMR88H7_ev8TX_1ZuhfwyslXVr6p4GIl6bmcLLKx9xwHUqjTMHiavICNIHr0dix5s_HyMFrQvK_QlkXO_-_jDw5TxoprCttPdujEogsMbHMv4J15lfeZnHQQ0lcYMI7LENp7BWEA6pb_9jtw3cwqHWqoGP2qVnbOifee_sJuEWRYOqpgrMyH_qffiE9DyRd2_ERE8uSJKEvFkY_zuUJDylXYXKDogctawJhQ.nH2UeQ37G5Sy2gk6V-J9yEm7djm0C-ztIFFhPkgupJ4&dib_tag=se&keywords=USBC%2BPanel%2BMount&qid=1751048464&sprefix=usbc%2Bpanel%2Bmount%2Caps%2C198&sr=8-4&th=1).
 
 
-Total Cost - 
+Total Cost - $415
